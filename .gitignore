@@ -1,0 +1,6 @@
+.DS_Store
+**/__pycache__
+**/data
+**/input
+**/.ipynb_checkpoints
+jigsaw-multilingual-toxic-comment-classification
